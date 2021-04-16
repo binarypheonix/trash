@@ -6,7 +6,7 @@ TRASH, as you may have guessed, stands for Truly Awesome Shell, which is a simpl
 with support for piping. Other features will be added later on when I feel like it, or if you're interested, you
 could open an issue for the feature you want, or create a PR for the same.
 
-# Installation
+## Installation
 
 To install the shell and play with it, simply clone the repo, and build the trash.rs file in src directory.
 
